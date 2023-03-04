@@ -1,4 +1,4 @@
-# golang-sqs
+# golang-aws-template
 
 
 ## Services
