@@ -1,4 +1,4 @@
-package amazon
+package sdk
 
 import (
 	"github.com/aws/aws-sdk-go/aws"
